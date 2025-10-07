@@ -4,7 +4,7 @@ title: Download DAWN
 permalink: /downloads/
 ---
 
-### DAWN 2.38.0
+### DAWN 2.39.0
 
 DAWN can be downloaded using the links below. To install:
 
@@ -109,10 +109,11 @@ To find the DAWN version you are currently using, go to Help&rarr;About DAWN Sci
 |               | Debian               | Not officially supported but should work                                 |
 |               | Raspberry Pi OS      | Tested with known minor issues                                           |
 |               | Others (inc. Ubuntu) | Not officially supported but used as development and testing platforms.  |
-| **Windows**   | Windows 11           | Untested                                                                 |
+| **Windows**   | Windows 11           | Supported (Diamond)                                                      |
 |               | Windows 10           | Supported (Diamond)                                                      |
 |               | Windows 7, 8         | Not officially supported but should work                                 |
-| **macOS**     | 15.x                 | Untested                                                                 |
+| **macOS**     | 26.x                 | Untested                                                                 |
+|               | 15.x                 | Untested                                                                 |
 |               | 14.x                 | Supported (however, avoid 14.4 for aarch64, 14.4.1 or later is fine)     |
 |               | 13.x                 | Supported                                                                |
 |               | 12.x                 | Supported                                                                |
