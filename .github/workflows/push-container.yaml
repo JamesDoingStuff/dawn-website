@@ -10,6 +10,11 @@ on:
 jobs:
   push_to_registry:
     name: Build and push Docker image to GitHub Container Registry
+    permissions:
+      contents: read
+      packages: write
+      attestations: write
+      id-token: write
     runs-on: ubuntu-latest
 
     steps:
